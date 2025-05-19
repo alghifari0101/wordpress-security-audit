@@ -28,7 +28,7 @@ Access to the WordPress site or local installation files
 
 🚀 Installation
 bash# Clone the repository
-git clone https://github.com/yourusername/wordpress-security-audit.git
+git clone https://github.com/alghifari0101/wordpress-security-audit.git
 
 # Navigate to the directory
 cd wordpress-security-audit
